@@ -38,7 +38,7 @@ REACT_APP_OMDB_API_KEY=your_omdb_api_key
 ## Setup & run (local)
 1. Clone repository
     ```
-    git clone
+    git: https://github.com/santhoshkumark2003/movie-search
     ```
 2. Server
     ```
